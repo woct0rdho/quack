@@ -22,7 +22,6 @@ import os
 import pickle
 import sys
 import tempfile
-import time
 import warnings
 from collections import namedtuple
 from getpass import getuser
